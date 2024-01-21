@@ -6,9 +6,9 @@ Benvenuti su Giovyx90.net, il mio spazio digitale dedicato alla condivisione di 
 
 Qui troverete una raccolta approfondita di appunti e spero spiegazioni chiare e dettagliate. Il mio obiettivo è rendere la materia accessibile a tutti, fornendo un valido aiuto per lo studio e la comprensione.
 
-Esplorate liberamente gli appunti, partecipate alle discussioni e lasciatevi ispirare dalla bellezza della fisica. Grazie per essere qui e accomodatevi nel mondo della conoscenza su fisica.giovyx90.net!
+Esplorate liberamente gli appunti!
 
-[Clicca qui](giovyx90.net)  per accedere al sito principale!
+[Clicca qui](https://giovyx90.net)  per accedere al sito principale (principalmente un blog personale)
 
 
 > [!danger] ATTENZIONE
